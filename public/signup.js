@@ -11,13 +11,14 @@ import { getAuth,
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCc-Hoh16aNtew8CVlPACSkx9VSGT5FKiA",
-  authDomain: "groove-hits.firebaseapp.com",
-  databaseURL: "https://groove-hits-default-rtdb.firebaseio.com",
-  projectId: "groove-hits",
-  storageBucket: "groove-hits.appspot.com",
-  messagingSenderId: "894366884955",
-  appId: "1:894366884955:web:42c1083998d187ace90b7e"
+ apiKey: "AIzaSyBsPuDiX8qJs1pmtj7fDPqpEwFeo4SCdvQ",
+  authDomain: "socialapp-17226.firebaseapp.com",
+  databaseURL: "https://socialapp-17226-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "socialapp-17226",
+  storageBucket: "socialapp-17226.appspot.com",
+  messagingSenderId: "605228920802",
+  appId: "1:605228920802:web:860a890dd72088d31f93bb",
+  measurementId: "G-C7LQXJ0LDR"
 };
 
 // Initialize Firebase
